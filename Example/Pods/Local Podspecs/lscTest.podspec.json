@@ -1,0 +1,22 @@
+{
+  "name": "lscTest",
+  "version": "0.1.0",
+  "summary": "A short description of lscTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lsc/lscTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lsc": "wyqwsg04"
+  },
+  "source": {
+    "git": "https://github.com/lsc/lscTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "lscTest/Classes/**/*"
+}
